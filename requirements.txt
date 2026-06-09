@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+google-generativeai
+python-dotenv
+pandas
+reportlab
+tenacity
+torch
+numpy
