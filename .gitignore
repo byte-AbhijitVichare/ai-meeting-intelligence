@@ -1,0 +1,51 @@
+# Environment Variables
+
+.env
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# Database
+
+database/*.db
+
+# Uploaded Files
+
+uploads/*
+
+# Generated Outputs
+
+outputs/*
+*.pdf
+
+# Audio Files
+
+*.mp3
+*.wav
+*.m4a
+
+# Streamlit
+
+.streamlit/
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
